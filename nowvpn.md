@@ -23,5 +23,5 @@
 <hr>
 <h3>⚠️ این صفحه فقط یک انتقال دهنده به سایت اصلی و ادرس جدید برای راحتی شماست لطفا دقت کنید ⚠️</h3>
 <br>
-<img src="assets/images/screenshots-section/nowvpn.png"  alt="nowvpn"/>
+<img src="assets/nowvpn.png"  alt="nowvpn"/>
 </div>
